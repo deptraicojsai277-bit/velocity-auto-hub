@@ -13,11 +13,11 @@ export function Footer() {
                 <Car className="w-7 h-7 text-primary-foreground" />
               </div>
               <span className="font-display text-2xl font-bold tracking-wider text-foreground">
-                AUTO<span className="text-primary">ELITE</span>
+                KN<span className="text-primary">&</span>KV
               </span>
             </Link>
             <p className="text-muted-foreground leading-relaxed">
-              Đẳng cấp xe hơi - Nơi mang đến những chiếc xe tốt nhất cho cuộc sống của bạn.
+              KN&KV - Đẳng cấp xe hơi, nơi mang đến những chiếc xe tốt nhất cho cuộc sống của bạn.
             </p>
             <div className="flex gap-4">
               <a
@@ -99,7 +99,7 @@ export function Footer() {
         {/* Bottom */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2024 AutoElite. Tất cả quyền được bảo lưu.
+            © 2024 KN&KV. Tất cả quyền được bảo lưu.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <a href="#" className="hover:text-primary transition-colors">Chính sách bảo mật</a>
