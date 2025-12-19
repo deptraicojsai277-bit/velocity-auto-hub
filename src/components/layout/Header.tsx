@@ -39,7 +39,7 @@ export function Header() {
               <Car className="w-7 h-7 text-primary-foreground" />
             </div>
             <span className="font-display text-2xl font-bold tracking-wider text-foreground">
-              AUTO<span className="text-primary">ELITE</span>
+              KN<span className="text-primary">&</span>KV
             </span>
           </Link>
 

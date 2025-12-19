@@ -43,7 +43,7 @@ export function ServicesSection() {
             Dịch vụ
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold mt-4 mb-6">
-            Tại sao chọn <span className="text-gradient-primary">AutoElite</span>?
+            Tại sao chọn <span className="text-gradient-primary">KN&KV</span>?
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Chúng tôi cam kết mang đến trải nghiệm mua xe tốt nhất với dịch vụ chuyên nghiệp
